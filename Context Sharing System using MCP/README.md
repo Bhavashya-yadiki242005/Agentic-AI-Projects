@@ -47,17 +47,17 @@ This project is intended as a learning and portfolio project for understanding:
 ---
 
 
----
+
 
 ## Installation
 
-### 1. Clone or download this repository
+## 1. Clone or download this repository
 
-```bash
+bash
 git clone <<YOUR_GITHUB_REPO_LINK>>
 cd mcp-context-sharing
 
-### 2. Install dependencies
+## 2. Install dependencies
 pip install mcp[cli]
 
 Running the Server
