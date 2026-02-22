@@ -82,8 +82,6 @@ Dataset
 
 # Download the dataset from Kaggle:
 
-<<INSERT_KAGGLE_DATASET_LINK>>
-
 Place the CSV file in your project directory and update the file path in:
 
 FileReadTool(file_path='Synthetic_Financial_datasets_log.csv')
