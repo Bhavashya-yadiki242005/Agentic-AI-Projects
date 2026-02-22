@@ -1,3 +1,4 @@
+## Note: If GitHub does not preview the PDF, please download it to view the full documentation.
 # AI-Powered Email Classifier using n8n
 
 This project implements an automated email classification system using **n8n**.  
